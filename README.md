@@ -1,4 +1,7 @@
 ### Hi there 👋
+## Soy estudiante de Economia en UNMSM
+## Actualmente estoy aprendiendo Maching Learning
+##  Puedes  contactarme en : jamil.moreno@unmsm.edu.pe
 
 <!--
 **jamilmoreno/jamilmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
