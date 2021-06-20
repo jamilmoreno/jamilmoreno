@@ -1,6 +1,5 @@
 ### Hi there 👋
 ## Soy estudiante de Economia en UNMSM
-## Actualmente estoy aprendiendo Maching Learning
 ##  Puedes  contactarme en : jamil.moreno@unmsm.edu.pe
 
 <!--
